@@ -303,7 +303,7 @@ nav ul li a:hover{
     margin-top: 30px;
 }
 
-.contact-left p i{
+.contact-left p span{
     color: var(--red-color);
     margin-right: 10px;
     font-size: 20px;
